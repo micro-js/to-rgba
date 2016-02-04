@@ -2,7 +2,7 @@
   "name": "@f/to-rgba",
   "description": "Convert any color string to an RGBA array",
   "repository": "git://github.com/micro-js/to-rgba.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
